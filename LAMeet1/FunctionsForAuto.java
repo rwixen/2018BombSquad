@@ -1,6 +1,6 @@
 /**
- * Created by stevecox on 11/4/17.
- * Code for Harvey's autonomous
+ * Created by ryanWixen on 11/19/17.
+ * Code for robot autonomous
  */
 // package declaration
 package org.firstinspires.ftc.teamcode;
